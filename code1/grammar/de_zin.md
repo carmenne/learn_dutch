@@ -38,12 +38,13 @@ In de trein mogen we niet roken.
 
 Twee hoofdzinnen
 
-hoofdzin 1		hoofdzin 2
-Contactloos betalen is makkelijk	en	het is gratis.
-Ik wil graag een pen lenen,	want	ik heb geen pen bij me.
-Een creditcard is wel handig,	maar	ik gebruik hem niet zo vaak.
-Ik heb geen geld bij me,	dus	ik wil met mijn pinpas betalen.
-U kunt contant betalen	of	u kunt met een pinpas betalen.
+| hoofdzin 1        | conjuncties| hoofdzin 2  |
+| ------------- |:-------------:|:-----|
+|Contactloos betalen is makkelijk	|en|het is gratis.|
+|Ik wil graag een pen lenen,	|want	|ik heb geen pen bij me.|
+|Een creditcard is wel handig,	|maar|ik gebruik hem niet zo vaak.|
+|Ik heb geen geld bij me,	|dus|ik wil met mijn pinpas betalen.|
+|U kunt contant betalen	|of|u kunt met een pinpas betalen.|
 
 > En, want, maar, dus en of zijn conjuncties (verbindingswoorden). Ze verbinden twee hoofdzinnen.
 
