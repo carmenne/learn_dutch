@@ -69,7 +69,7 @@ Na andere werkwoorden -> MET TE
 8) De hoofdzin en de bijzin (de hoofdzin staat voorop)  
 In de hoofdzin: PV=2  
 In de bijzin: PV = het eind de zin  
-De conjucties: als, omdat, dus.  
+De conjucties: als, omdat, dat.  
   
 U neemt dit gesneesmiddel niet als u allergish bent.  
 Ik neem paracetamol omdat ik hoofdpijn heb.  
