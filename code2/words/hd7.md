@@ -43,15 +43,21 @@ Mijn vader moet soms voor zijn werk naar Londen, want daar zit het hoofdkantoor 
 Eerst ontbijt ik en vervolgens douche ik.
 #### ervaring
 Ik heb nog nooit in een restaurant gewerkt. Ik heb er geen ervaring mee.
+We hebben een goede docente. Ze heeft veel ervaring.
 #### inhouden
 Mevrouw Das werkt in de thuiszorg. Dat houdt in dat ze oude of zieke mensen helpt.
 #### vergadering
 Hoe laat begint de vergadering? Om tien uur.
+De vergadering duurde de hele middag, want we moesten veel bespreken. Het was zo saai.
 #### opruimen, het huishouden
 De man van Sandra doet niets in het huishouden. Zij moet altijd wassen, koken en opruimen.
 #### 
 Je werkzaamheden bestaan uit koffiezetten en schoonmaken.
 #### wekker, raar
 Mijn wekker doet het niet, wat raar.
+#### wekker, raar, rond, vervolgens, uitzendbureau, het personnel, houdt in
+Ik word elke dag om acht uur wakker. Dan gaat mijn wekker. Vandaag werd ik niet zo vroeg wakker. Het was heel raar: ik heb mijn wekker niet gehoord. Daardoor heb ik wel lang kunnen slapen. Heerlijk! Ik werd pas rond tien uur wakker. Ik heb toen lekker gegeten en vervolgens heb ik mijn kleren aangedaan. Daarna ben ik naar een uitzendbureau gegaan, want ik zoek een nieuwe baan. En die heb ik gevonden! Het ziekenhuis in de stad zoekt het personnel. Dat houdt in dat ik morgen weer ga werken.
+#### klaargemaakt
+Mijn man heeft gisteren heerlijke zalm klaargemaakt. Hij kan echt goed koken.
 
 
