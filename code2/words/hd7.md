@@ -17,3 +17,5 @@ En wat doe je zoal de hele dag?
 Je kunt heel veel doen in New York. Zal ik een programma voor vijf dagen samenstellen
 #### bewerken
 Deze tekst is nog niet goed. We moeten hem nog bewerken
+#### bestaat uit
+Dit gerecht bestaat uit rijst, groente en vis.
