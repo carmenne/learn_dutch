@@ -59,5 +59,9 @@ Mijn wekker doet het niet, wat raar.
 Ik word elke dag om acht uur wakker. Dan gaat mijn wekker. Vandaag werd ik niet zo vroeg wakker. Het was heel raar: ik heb mijn wekker niet gehoord. Daardoor heb ik wel lang kunnen slapen. Heerlijk! Ik werd pas rond tien uur wakker. Ik heb toen lekker gegeten en vervolgens heb ik mijn kleren aangedaan. Daarna ben ik naar een uitzendbureau gegaan, want ik zoek een nieuwe baan. En die heb ik gevonden! Het ziekenhuis in de stad zoekt het personnel. Dat houdt in dat ik morgen weer ga werken.
 #### klaargemaakt
 Mijn man heeft gisteren heerlijke zalm klaargemaakt. Hij kan echt goed koken.
-
-
+#### wedstrijd, afgelopen, spannend
+De wedstrijd, die afgelopen is, was erg spannend.
+#### bedrag
+Het bedrag dat hij moet betalen, is niet zo hoog.
+#### 
+De leerlingen bedenken een grap.
