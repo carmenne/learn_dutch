@@ -43,5 +43,15 @@ Mijn vader moet soms voor zijn werk naar Londen, want daar zit het hoofdkantoor 
 Eerst ontbijt ik en vervolgens douche ik.
 #### ervaring
 Ik heb nog nooit in een restaurant gewerkt. Ik heb er geen ervaring mee.
-#### 
+#### inhouden
 Mevrouw Das werkt in de thuiszorg. Dat houdt in dat ze oude of zieke mensen helpt.
+#### vergadering
+Hoe laat begint de vergadering? Om tien uur.
+#### opruimen, het huishouden
+De man van Sandra doet niets in het huishouden. Zij moet altijd wassen, koken en opruimen.
+#### 
+Je werkzaamheden bestaan uit koffiezetten en schoonmaken.
+#### wekker, raar
+Mijn wekker doet het niet, wat raar.
+
+
