@@ -29,8 +29,9 @@ Ik begin binnenkort als secretaresse. Ik vind het wel eng, want het is mijn eers
 Jim had drie weken lang problemen met zijn computer. Zijn broer heeft de computer uiteindelijk gerepareerd.
 #### hetzij
 We kunnen niet alles doen: we gaan hetzij Rotterdam, hetzij Den Haag.
-#### blad
-Lees jij een krant of blad?
+#### blad | het tijdschrift
+Lees jij een krant of blad?  
+Lees jij enn tijdschrift?
 #### vliegtuig
 We gaan niet met het vliegtuig op vakantie, maar met de trein.
 #### afhankelijk
