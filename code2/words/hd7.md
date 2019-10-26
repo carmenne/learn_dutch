@@ -95,3 +95,24 @@ Kijk, dat is een knappe vrouw! Zij ziet er echt goed uit!
 De Nederlandse schilder Van Gogh schilderde vaak met felle kleuren
 #### veranderen
 Mondriaan schilderde eerst met donkere kleuren. Daarna veranderde hij dat. Hij ging toen lichtere kleuren gebruiken.
+#### grachten
+In het centrum van Utrecht en Amsterdam zijn veel grachten.
+#### afspreken
+Zullen we afspreken om naar de film te gaan?
+#### opgegroeid
+Mijn zus en ik zijn opgegroeid in Groningen. Toen we 21 waren, zijn we naar Leeuwarden verhuisd
+#### smal | breed
+In mijn huis heb ik geen smalle maar brede ramen.
+#### slim
+Deze jongen is heel slim. Hij kan je met elk probleem helpen.
+#### ontwikkeling
+Boeken lezen is goed voor je algemene ontwikkeling
+#### trouwens
+Ga je mee fietsen? Nee, ik heb geen zin. En trouwens ik kan niet, mijn fiets is stuk.
+#### ruiken
+Wat ruikt het hier lekker! Wat ben je aan het koken?
+#### uitdrukken
+Sander kan zijn gevoel goed uitdrukken in een gedicht of lied.
+#### maken
+Het licht in de kinderkamer is stuk. Kun je het maken?
+
