@@ -23,7 +23,7 @@ Dit gerecht bestaat uit rijst, groente en vis.
 #### ontwerp
 Welke architect heeft het ontwerp gemaakt voor dat gebouw?
 #### eng
-Sara is bang van honden. Ze vindt ze heel eng.
+Sara is bang van honden. Ze vindt ze heel eng.  
 Ik begin binnenkort als secretaresse. Ik vind het wel eng, want het is mijn eerste baan.
 #### uitendelijk
 Jim had drie weken lang problemen met zijn computer. Zijn broer heeft de computer uiteindelijk gerepareerd.
