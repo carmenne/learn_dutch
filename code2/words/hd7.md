@@ -66,6 +66,8 @@ De wedstrijd, die afgelopen is, was erg spannend.
 Het bedrag dat hij moet betalen, is niet zo hoog.
 #### grap, bedenken
 De leerlingen bedenken een grap.
+#### grappig
+Ik vind films met Eddy Murphy erg grappig. Ik moet altijd erg hard lachen om wat hij doet.
 #### bevat
 De fles bevat 1.5 liter
 #### bieden
@@ -87,4 +89,9 @@ Uit onderzoek blijkt dat meisjes vaak sneller leren praten dan jongens.
 Mijn zoon moet volgende week naar het ziekenhuis voor een nieuw onderzoek. Hij heeft vaak last van hoofdpijn.
 #### ontvangen
 De receptioniste ontvangt de gasten van het hotel.
-
+#### knappe
+Kijk, dat is een knappe vrouw! Zij ziet er echt goed uit!
+#### felle
+De Nederlandse schilder Van Gogh schilderde vaak met felle kleuren
+#### veranderen
+Mondriaan schilderde eerst met donkere kleuren. Daarna veranderde hij dat. Hij ging toen lichtere kleuren gebruiken.
