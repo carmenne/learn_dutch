@@ -64,5 +64,10 @@ Mijn man heeft gisteren heerlijke zalm klaargemaakt. Hij kan echt goed koken.
 De wedstrijd, die afgelopen is, was erg spannend.
 #### bedrag
 Het bedrag dat hij moet betalen, is niet zo hoog.
-#### 
+#### grap, bedenken
 De leerlingen bedenken een grap.
+#### bevat
+De fles bevat 1.5 liter
+#### bieden
+Erica biedt oude mensen hulp. Ze houdt hun huizen schoon.
+
