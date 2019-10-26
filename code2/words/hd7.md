@@ -115,4 +115,9 @@ Wat ruikt het hier lekker! Wat ben je aan het koken?
 Sander kan zijn gevoel goed uitdrukken in een gedicht of lied.
 #### maken
 Het licht in de kinderkamer is stuk. Kun je het maken?
-
+#### schuin oversteken
+Je mag niet schuin oversteken, Moniek!
+#### trouw
+Jan trouw niet voor je veertigste
+#### volgorde
+Jan zet deze woorden in de goede volgorde
