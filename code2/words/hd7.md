@@ -70,4 +70,7 @@ De leerlingen bedenken een grap.
 De fles bevat 1.5 liter
 #### bieden
 Erica biedt oude mensen hulp. Ze houdt hun huizen schoon.
-
+#### mondeling
+Dit examen is mondeling, niet schriftelijk.
+#### eis
+De eis voor deze baan is: je moet minimaal drie jaar ervaring hebben.
