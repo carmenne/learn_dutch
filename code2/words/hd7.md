@@ -74,3 +74,17 @@ Erica biedt oude mensen hulp. Ze houdt hun huizen schoon.
 Dit examen is mondeling, niet schriftelijk.
 #### eis
 De eis voor deze baan is: je moet minimaal drie jaar ervaring hebben.
+####
+Het werk bevalt me prima
+#### netto, bruto
+Ciska verdient bruto 2100 euro en netto ongeveer 1500 euro.
+#### sterren
+Dit is een groot en duur hotel. Het heeft vijfsteren.
+#### geschikt
+Ik wil met tien collega's uit eten. Weet jij een geschikt restaurant?
+#### blijken
+Uit onderzoek blijkt dat meisjes vaak sneller leren praten dan jongens.  
+Mijn zoon moet volgende week naar het ziekenhuis voor een nieuw onderzoek. Hij heeft vaak last van hoofdpijn.
+#### ontvangen
+De receptioniste ontvangt de gasten van het hotel.
+
