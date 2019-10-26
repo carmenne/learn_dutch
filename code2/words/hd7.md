@@ -121,3 +121,5 @@ Je mag niet schuin oversteken, Moniek!
 Jan trouw niet voor je veertigste
 #### volgorde
 Jan zet deze woorden in de goede volgorde
+#### behalve
+Iedereen gaat mee lunchen behalve de baas.
