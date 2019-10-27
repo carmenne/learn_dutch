@@ -123,3 +123,5 @@ Jan trouw niet voor je veertigste
 Jan zet deze woorden in de goede volgorde
 #### behalve
 Iedereen gaat mee lunchen behalve de baas.
+#### haast heben
+Ik moet over vijf minuten op mijn werk zijn dus ik heb haast.
