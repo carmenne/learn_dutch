@@ -8,3 +8,5 @@ bestelling opnemen
 samenstelling  
 Je baas is verplicht om een verzekering voor ziekte te regelen.
 Voor welke bedragen gebruik jij je pinpas?  
+Ik wil in ieder geval geen grote tv.  
+Is dat niet iets voor ons?  
