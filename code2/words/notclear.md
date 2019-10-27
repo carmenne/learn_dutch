@@ -7,3 +7,4 @@ U heeft de goede diploma's. Op het moment hebben we echter geen werk voor u.
 bestelling opnemen  
 samenstelling  
 Je baas is verplicht om een verzekering voor ziekte te regelen.
+Voor welke bedragen gebruik jij je pinpas?  
