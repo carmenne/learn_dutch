@@ -11,3 +11,8 @@ Voor welke bedragen gebruik jij je pinpas?
 Ik wil in ieder geval geen grote tv.  
 Is dat niet iets voor ons?   
 Ik wil in ieder geval naar het Rijksmuseum.  
+gebeurt (gebeuren) - happens
+eigenaar  
+met plezier  
+rond een uur of vier  
+dat is zeker zo  
