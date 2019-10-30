@@ -125,3 +125,15 @@ Jan zet deze woorden in de goede volgorde
 Iedereen gaat mee lunchen behalve de baas.
 #### haast heben
 Ik moet over vijf minuten op mijn werk zijn dus ik heb haast.
+#### 
+Ik zal je vertellen wat het werk inhoudt. Je werkt hetzij overdag, 
+ in de nachtdienst. Je salaris is afhankelijk
+ van hoe vaak je 's nachts werkt. De eis
+ is dat je tenminste
+ twee keer per maand een nachtdienst hebt. Dus als je daar een hekel
+ aan hebt, moet je er niet aan beginnen. Als je wilt, kun je direct
+ beginnen. Als blijkt
+ dat je je werk goed doet, kunnen we je een vast contract 
+ . Als je echter
+ niet goed werkt, moet je na de proeftijd weer vertrekken. 
+ is dat het beste voor iedereeen.
